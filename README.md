@@ -5,7 +5,7 @@ Neste projeto, foi desenvolvida uma API RESTful para o gerenciamento e agendamen
 ## Tecnologias Utilizadas
 
 * **Back-End:** Java 17, Spring Boot, Spring Data JPA
-* **Banco de Dados:** PostgreSQL / MySQL
+* **Banco de Dados:** PostgreSQL
 * **Ferramentas:** Postman (para testes de endpoints), Git e GitHub (controle de versão)
 
 ## Camadas do Sistema
